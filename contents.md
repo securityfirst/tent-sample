@@ -1,2 +1,1 @@
-# octo-content
-Sample project with contents for octo
+my updated file contents
