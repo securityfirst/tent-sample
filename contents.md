@@ -1,1 +1,1 @@
-my updated file contents new 2
+New contents
